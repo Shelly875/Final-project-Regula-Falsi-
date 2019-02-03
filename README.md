@@ -10,4 +10,4 @@ as part of the final project in Numerical analysis course.
 
 # How to use
 
-![GIF](http://recordit.co/xqULNcqL9Q)
+![GIF](http://g.recordit.co/xqULNcqL9Q.gif)
