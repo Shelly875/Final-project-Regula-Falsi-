@@ -14,6 +14,6 @@ as part of the final project in Numerical analysis course.
 
 # Installation
 
-1 - Download to your PC the last update version of python (I used Python 3.7) : https://www.python.org/
-2 - Download PyCharm from JetBrain: https://www.jetbrains.com/pycharm/
-3 - Open my code in Pycharm and run it as shown in the gif above
+1. Download to your PC the last update version of python (I used Python 3.7) : https://www.python.org/
+2. Download PyCharm from JetBrain: https://www.jetbrains.com/pycharm/
+3. Open my code in Pycharm and run it as shown in the gif above
