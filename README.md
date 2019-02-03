@@ -18,6 +18,10 @@ as part of the final project in Numerical analysis course.
 2. Download PyCharm from JetBrain: https://www.jetbrains.com/pycharm/
 3. Open my code in Pycharm and run it as shown in the gif above
 
-# Clone
+# History and scientific sources
 
-* ![](git@github.com:Shelly875/Final-project-Regula-Falsi-.git)
+* https://ece.uwaterloo.ca/~dwharder/NumericalAnalysis/10RootFinding/falseposition/
+* https://books.google.co.il/books?id=jfQ9E0u4pLAC&pg=PA147&redir_esc=y#v=onepage&q=regula&f=false
+* http://mathworld.wolfram.com/MethodofFalsePosition.html
+
+# Test Cases
