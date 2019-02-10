@@ -4,6 +4,7 @@ def f(x):
     :param x: given temp root
     :return: the value of the polynomial in x
     """
+
     return x ** 3 + 2 * x ** 2 + 10 * x - 20
 
 
@@ -16,6 +17,7 @@ def regula_falsi(x0, x1, acceptable_error):
     :return: the root of a given polynomial
     """
 
+    i = 0
     while f(x1) - f(x0) >= acceptable_error:
         x = (x0 * f(x1) - x1 * f(x0)) / (f(x1) - f(x0))
 
@@ -25,10 +27,11 @@ def regula_falsi(x0, x1, acceptable_error):
             x0 = x
         else:
             x1 = x
+        print('Iteration ', i, ': ', x)
+        i += 1
     return x
 
-
-print(regula_falsi(0, 5, 0))
+print(regula_falsi(0, 3, 0))
 
 
 
