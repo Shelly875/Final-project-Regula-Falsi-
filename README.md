@@ -4,11 +4,13 @@
 Author: Shelly Miron
 
 # Introduction 
+---
 In this project I will discuss the functionality of the "Regula-Falsi method" 
 as a numerical method for finding a high-level polynomial root 
 as part of the final project in Numerical analysis course.
 
 # How to use
+---
 
 ![GIF](http://g.recordit.co/xqULNcqL9Q.gif)
 
@@ -23,6 +25,8 @@ as part of the final project in Numerical analysis course.
 * https://ece.uwaterloo.ca/~dwharder/NumericalAnalysis/10RootFinding/falseposition/
 * https://books.google.co.il/books?id=jfQ9E0u4pLAC&pg=PA147&redir_esc=y#v=onepage&q=regula&f=false
 * http://mathworld.wolfram.com/MethodofFalsePosition.html
+
+---
 
 # Test Cases
 
