@@ -25,3 +25,5 @@ as part of the final project in Numerical analysis course.
 * http://mathworld.wolfram.com/MethodofFalsePosition.html
 
 # Test Cases
+
+![GIF](http://g.recordit.co/769JyHQp8E.gif)
