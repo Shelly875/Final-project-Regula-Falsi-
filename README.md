@@ -20,6 +20,22 @@ retained. A new secant line of f (x) is constructed and the process is continued
 
 --- 
 
+# Documentation
+
+```
+The params the 'regula falsi' program recived:
+
+ :param f: a polynomial (sent as lambda or function)
+ :param x0: the first x point of an interval
+ :param x1: the second x point of an interval
+ :param acceptable_error: the max error for stopping the calculation
+ :return: the root of a given polynomial
+ 
+ Input : regula_falsi(f, x0, x1, acceptable_error)
+ Output: the root of the polynomial (f) in particular range
+ 
+```
+
 # How to use
 
 ![GIF](http://g.recordit.co/a6u2fcW6UI.gif)
