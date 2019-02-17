@@ -18,10 +18,11 @@ The iteration is the Regula Falsi method, where x is an endpoint of the original
 that remains fixed. At each step of the Regula Falsi method, the current approximation replaces the previous interval endpoint whose corresponding function value has the same sign as the current best estimate of x, while the other interval endpoint is
 retained. A new secant line of f (x) is constructed and the process is continued in an
 
+--- 
+
 # How to use
 
 ![GIF](http://g.recordit.co/a6u2fcW6UI.gif)
-
 
 
 # Installation
@@ -36,7 +37,7 @@ retained. A new secant line of f (x) is constructed and the process is continued
 * https://books.google.co.il/books?id=jfQ9E0u4pLAC&pg=PA147&redir_esc=y#v=onepage&q=regula&f=false
 * http://mathworld.wolfram.com/MethodofFalsePosition.html
 
-
+---
 
 # Test Cases
 
