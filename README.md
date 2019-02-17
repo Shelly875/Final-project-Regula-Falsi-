@@ -5,9 +5,18 @@ Author: Shelly Miron
 
 # Introduction 
 
-In this project I will discuss the functionality of the "Regula-Falsi method" 
-as a numerical method for finding a high-level polynomial root 
-as part of the final project in Numerical analysis course.
+In this project I will discuss the functionality of the "Regula-Falsi method" as a numerical method 
+for finding a high-level polynomial root as part of the final project in Numerical analysis course.
+The guiding principle of the Regula Falsi method is like the secant method, the use of a succession 
+of zeros of secant lines obtained from two-point interpolation to better approximate a zero of a function f (x).
+f (x) represents the function whose zero we are trying to find.
+A key difference between the Regula Falsi method and the secant method is that in
+the first step of the Regula Falsi method, the two initial estimates, x0 and x1, are chosen
+such that f (x0) and f (x1) are of opposite signs ( f (x0) f (x1) < 0). This is unlike the
+secant method, where there is no restriction that the initial estimates bracket a zero.
+The iteration is the Regula Falsi method, where x is an endpoint of the original bracketing interval
+that remains fixed. At each step of the Regula Falsi method, the current approximation replaces the previous interval endpoint whose corresponding function value has the same sign as the current best estimate of x, while the other interval endpoint is
+retained. A new secant line of f (x) is constructed and the process is continued in an
 
 # How to use
 
