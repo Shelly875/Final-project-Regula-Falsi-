@@ -13,7 +13,7 @@ as part of the final project in Numerical analysis course.
 
 ![GIF](http://g.recordit.co/AKN6MWDymc.gif)
 
----
+
 
 # Installation
 
@@ -27,7 +27,7 @@ as part of the final project in Numerical analysis course.
 * https://books.google.co.il/books?id=jfQ9E0u4pLAC&pg=PA147&redir_esc=y#v=onepage&q=regula&f=false
 * http://mathworld.wolfram.com/MethodofFalsePosition.html
 
----
+
 
 # Test Cases
 
