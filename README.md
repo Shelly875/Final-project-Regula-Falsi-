@@ -11,7 +11,7 @@ as part of the final project in Numerical analysis course.
 
 # How to use
 
-![GIF](http://g.recordit.co/xqULNcqL9Q.gif)
+![GIF](http://g.recordit.co/AKN6MWDymc.gif)
 
 ---
 
@@ -31,4 +31,4 @@ as part of the final project in Numerical analysis course.
 
 # Test Cases
 
-![GIF](http://g.recordit.co/769JyHQp8E.gif)
+![GIF](http://g.recordit.co/MOXCxHAV3K.gif)
