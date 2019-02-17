@@ -11,7 +11,7 @@ as part of the final project in Numerical analysis course.
 
 # How to use
 
-![GIF](http://g.recordit.co/If0Rt4Vdzd.gif)
+![GIF](http://g.recordit.co/a6u2fcW6UI.gif)
 
 
 
