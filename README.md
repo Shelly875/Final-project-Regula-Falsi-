@@ -46,6 +46,7 @@ The params the 'regula falsi' program recived:
 1. Download to your PC the last update version of python (I used Python 3.7) : https://www.python.org/
 2. Download PyCharm from JetBrain: https://www.jetbrains.com/pycharm/
 3. Open my code in Pycharm and run it as shown in the gif above
+4. Run test.py to check code reliability
 
 # History and scientific sources
 
@@ -58,3 +59,14 @@ The params the 'regula falsi' program recived:
 # Test Cases
 
 ![GIF](http://g.recordit.co/PGW21CWXft.gif)
+
+* Using 'unittest' package
+
+# License
+
+This project is licensed under the GNU GENERAL PUBLIC LICENSE since 2007 above : ![license](https://github.com/Shelly875/Final-project-regula-falsi/blob/master/LICENSE) © .
+
+
+
+
+
