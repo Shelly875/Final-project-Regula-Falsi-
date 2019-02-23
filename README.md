@@ -64,6 +64,11 @@ The params the 'regula falsi' program recived:
 
 * Using 'unittest' package
 
+
+# Version
+
+Currently my final version of the software.
+
 # License
 
 This project is licensed under the GNU GENERAL PUBLIC LICENSE since 2007 above : [GNU GENERAL PUBLIC LICENSE](https://github.com/Shelly875/Final-project-regula-falsi/blob/master/LICENSE) © .
