@@ -27,7 +27,7 @@ retained.
 # Documentation
 
 ```
-The params the 'regula falsi' program recived:
+Parameters the 'regula falsi' program recived:
 
  :param f: a polynomial (sent as lambda or function)
  :param x0: the first x point of an interval
