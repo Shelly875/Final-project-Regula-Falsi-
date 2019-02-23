@@ -64,7 +64,7 @@ The params the 'regula falsi' program recived:
 
 # License
 
-This project is licensed under the GNU GENERAL PUBLIC LICENSE since 2007 above : ![license](https://github.com/Shelly875/Final-project-regula-falsi/blob/master/LICENSE) © .
+This project is licensed under the GNU GENERAL PUBLIC LICENSE since 2007 above : [GNU GENERAL PUBLIC LICENSE](https://github.com/Shelly875/Final-project-regula-falsi/blob/master/LICENSE) © .
 
 
 
